@@ -5,8 +5,9 @@ This will register an angular module which will load new ui-router states lazily
 
 ## Setup
 
-`git clone https://github.com/opiepj/ui-router-lazy-example.git`
-`cd ui-router-lazy-example/`
-`npm install`
-`npm start`
+* `git clone https://github.com/opiepj/ui-router-lazy-example.git`
+* `cd ui-router-lazy-example/`
+* `npm install`
+* `npm start`
+
 
