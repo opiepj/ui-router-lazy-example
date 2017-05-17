@@ -1,0 +1,23 @@
+{
+  "name": "ui-router-lazy-example",
+  "version": "1.0.0",
+  "description": "UI Router Lazy Example with ui-state router",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server app -c-1 --cors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opiepj/ui-router-lazy-example.git"
+  },
+  "author": "Patrick Opie <opiepj@plu.edu>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opiepj/ui-router-lazy-example/issues"
+  },
+  "homepage": "https://github.com/opiepj/ui-router-lazy-example#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
